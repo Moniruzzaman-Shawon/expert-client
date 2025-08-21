@@ -1,5 +1,3 @@
-# Untitled
-
 # expert-client
 
 A React application showcasing a list of cybersecurity experts, allowing users to view their profiles, add them to a cart, and confirm their selections.
@@ -17,6 +15,7 @@ Experience the app in action:
 
 
 *Cart view showing selected experts.*
+
 <img width="579" height="662" alt="image" src="https://github.com/user-attachments/assets/1ad9fc81-ca43-4012-bbff-f908d03d1581" />
 
 
