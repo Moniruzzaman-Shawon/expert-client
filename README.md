@@ -60,3 +60,9 @@ To run tests:
 npm test
 
 ```
+## 📬 Contact
+
+For any questions or inquiries, feel free to reach out:
+
+**Email:** [m.zaman.djp@gmail.com](mailto:m.zaman.djp@gmail.com)
+
